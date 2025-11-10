@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-touch 4.log
+: > 4.log
 
 while read -r line
 do
