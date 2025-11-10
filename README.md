@@ -4,7 +4,7 @@
 
 Тут есть:
 
-* Лабораторная №1 - [lab1.md](https://pelmesh619.github.io/telecomm_labs/lab1/lab1.html)
+* Лабораторная №1 - [lab1.md](https://pelmesh619.github.io/opersys_labs/lab1/lab1.html)
 
 * Гайд по установке общей папки на VirtualBox - [shareddir/guide.md](https://pelmesh619.github.io/telecomm_labs/shareddir/guide.html)
 
